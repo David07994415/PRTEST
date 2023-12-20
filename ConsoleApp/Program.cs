@@ -27,7 +27,7 @@ namespace ConsoleApp
                 Console.WriteLine(  NoSettingsVersionUpgradeAttribute A);
             }
             //第二次新增
-            Console.WriteLine("2nd");
+            Console.WriteLine("3nd");
 
         }
     }
